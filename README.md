@@ -58,6 +58,3 @@ Se quiser saber mais ou trocar ideias sobre este projeto, entre em contato:
 ---
 
 💖 Obrigada por acompanhar minha jornada! Este é apenas o começo, e estou animada para continuar aprendendo e aplicando análise de dados em problemas do mundo real. 🚀✨  
-```  
-
-Agora o README reflete especificamente o seu projeto e os objetivos relacionados. 😊

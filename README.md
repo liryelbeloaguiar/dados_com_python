@@ -1,6 +1,3 @@
-Aqui está o README atualizado e focado no seu projeto inicial sobre análise de cancelamentos para uma empresa:  
-
-```markdown
 # 📊 Análise de Cancelamentos com Python 🚀  
 
 Este projeto marca o início da minha jornada em análise de dados com Python! 💡 Aqui analiso a quantidade de cancelamentos de uma empresa, identifico os principais motivos, proponho mudanças com base nos dados e apresento os resultados após a implementação dessas mudanças.  
